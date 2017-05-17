@@ -112,6 +112,18 @@ public class CenterFragment extends Fragment
         mXlst.setPullRefreshEnable(true);
         //上拉刷新和下拉加载都必须设置监听事件
         mXlst.setXListViewListener(this);
+
+
+
+
+
+//此处已经更改，怎么办？？？
+
+
+
+
+
+
     }
 
     //上拉加载
